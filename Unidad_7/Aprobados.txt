@@ -1,0 +1,2 @@
+Brenda;Godoy;12345;6.8
+Gabriel;Martinez;32165;4.6

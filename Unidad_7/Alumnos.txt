@@ -1,0 +1,3 @@
+Brenda;Godoy;12345;6.8
+Gabriel;Martinez;32165;4.6
+Celeste;Fernandez;12354;2.3
